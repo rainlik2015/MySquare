@@ -1,0 +1,16 @@
+D:\RealPro\MySquare\MySquare\obj\x86\Debug\MySquare.CreateLanGame.resources
+D:\RealPro\MySquare\MySquare\obj\x86\Debug\MySquare.JoinLanGame.resources
+D:\RealPro\MySquare\MySquare\obj\x86\Debug\MySquare.MainPad.resources
+D:\RealPro\MySquare\MySquare\obj\x86\Debug\MySquare.Properties.Resources.resources
+D:\RealPro\MySquare\MySquare\obj\x86\Debug\MySquare.csproj.GenerateResource.Cache
+D:\RealPro\MySquare\MySquare\bin\Debug\wTetris.exe
+D:\RealPro\MySquare\MySquare\bin\Debug\wTetris.pdb
+D:\RealPro\MySquare\MySquare\obj\x86\Debug\wTetris.exe
+D:\RealPro\MySquare\MySquare\obj\x86\Debug\wTetris.pdb
+D:\RealPro\MySquare\MySquare\obj\x86\Debug\MySquare.csprojResolveAssemblyReference.cache
+D:\500G\personal\C#\MySquare\MySquare\obj\x86\Debug\wTetris.exe
+D:\500G\personal\C#\MySquare\MySquare\obj\x86\Debug\wTetris.pdb
+C:\CO\CodeWheels\MySquare\MySquare\obj\x86\Debug\wTetris.exe
+C:\CO\CodeWheels\MySquare\MySquare\obj\x86\Debug\wTetris.pdb
+D:\开发\CodeWheels\俄罗斯方块\MySquare\MySquare\obj\x86\Debug\wTetris.exe
+D:\开发\CodeWheels\俄罗斯方块\MySquare\MySquare\obj\x86\Debug\wTetris.pdb
